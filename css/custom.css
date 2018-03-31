@@ -1,0 +1,26 @@
+
+#sideNav .navbar-brand .img-profile {
+    max-width: 60rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+
+a {
+  color: #7084a5;
+}
+
+/* This is nav bar*/
+.bg-primary {
+  background-color: #7084a5 !important;
+}
+
+/*last name*/
+.text-primary {
+  color: #7084a5 !important;
+}
+
+section.resume-section {
+  border-bottom: 1px solid #dee2e6;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
