@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"pa",
+				"paragraphs"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/daniellebutzon/Downloads/bootstrap-4.0.0-dist/css/bootstrap-grid.css",
+		"/Users/daniellebutzon/Downloads/04_Navbars/navbars.css",
+		"/Users/daniellebutzon/Desktop/Programming/UDEMY_PROJECTS/BASICS/bootstrap.css",
+		"/Users/daniellebutzon/Desktop/Programming/photos/photo.css",
+		"/Users/daniellebutzon/Desktop/Programming/photos/photos.css",
+		"/Users/daniellebutzon/Desktop/Programming/UDEMY_PROJECTS/photogrid.html",
+		"/Users/daniellebutzon/Desktop/Programming/myportfolio/css/custom.css",
+		"/Users/daniellebutzon/Desktop/Programming/myportfolio/css/resume.css",
+		"/Users/daniellebutzon/Desktop/Programming/myportfolio/css/resume.min.css",
+		"/Users/daniellebutzon/Desktop/Programming/myportfolio/index.html",
+		"/Users/daniellebutzon/Downloads/startbootstrap-resume-gh-pages/css/custom.css",
+		"/Users/daniellebutzon/Desktop/basics.html",
+		"/Users/daniellebutzon/Desktop/BASICS/bootstrap.css",
+		"/Users/daniellebutzon/Desktop/blog.css",
+		"/Users/daniellebutzon/Desktop/blog.html",
+		"/Users/daniellebutzon/Desktop/photo.css",
+		"/Users/daniellebutzon/Desktop/photogrid.html",
+		"/Users/daniellebutzon/Desktop/photo.html",
+		"/Users/daniellebutzon/Desktop/tictactoe.css",
+		"/Users/daniellebutzon/Desktop/tictactoe.html",
+		"/tictactoe.css",
+		"/tic.html",
+		"/Users/daniellebutzon/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/daniellebutzon/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/tac.css",
+		"/Users/daniellebutzon/Documents/styles.css",
+		"/Users/daniellebutzon/Documents/fonts.html",
+		"/Users/daniellebutzon/Documents/fonts.css",
+		"/Users/daniellebutzon/Documents/selectors.css",
+		"/Users/daniellebutzon/Documents/TODOS.CSS",
+		"/Users/daniellebutzon/Documents/danielle.html",
+		"/Users/daniellebutzon/Documents/danielle.css",
+		"/Users/daniellebutzon/Documents/udemyforms.html",
+		"/Users/daniellebutzon/Documents/daniellemeas.css",
+		"/Users/daniellebutzon/Documents/DanielleMeas.html",
+		"/Users/daniellebutzon/Documents/UDEMYCOURSE.HTML",
+		"/Users/daniellebutzon/Documents/udemyinputs.html",
+		"/Users/daniellebutzon/Documents/formquiz.html",
+		"/Users/daniellebutzon/Documents/CORGI.html",
+		"/Users/daniellebutzon/Desktop/mywebsite/style.css",
+		"/Users/daniellebutzon/Desktop/mywebsite/MyWebPage.html",
+		"/Users/daniellebutzon/Desktop/MyWebPage index.html",
+		"/Users/daniellebutzon/Desktop/untitled folder",
+		"/Users/daniellebutzon/Desktop/Firstpage.html",
+		"/Users/daniellebutzon/Desktop/UDEMY",
+		"/Users/daniellebutzon/Desktop/udemycolt",
+		"/untitled",
+		"/fuck off",
+		"/udemycolt",
+		"/Udemy Colt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
